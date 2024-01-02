@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html, css and JavaScript**
 
-- 📫 How to reach me **aaquib.tanweer.111@gmail.com**
+- 📫Reach me @ **aaquib.tanweer.111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
