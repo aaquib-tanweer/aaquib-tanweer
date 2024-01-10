@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Aaquib Tanweer from India<br>- 🔭 I’m working as Front-end Developer<br>- 📚 I'm currently learning Full stack Development<br>- ⚡ In my free time I create bugs :P</p>
+<p align="left">I'm Aaquib Tanweer <br>- 🔭 I’m working as Front-end Developer<br>- 📚 I'm currently learning Full stack Development<br>- ⚡ In my free time I create bugs :P</p>
 
 ###
 
