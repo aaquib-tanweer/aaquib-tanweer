@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Aaquib Tanweer</h1>
+<h1 align="center">Hey there 👋, I'm Aaquib Tanweer</h1>
 <h3 align="center">A front-end developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/aaquib_tanweer" target="blank"><img src="https://img.shields.io/twitter/follow/aaquib_tanweer?logo=twitter&style=for-the-badge" alt="aaquib_tanweer" /></a> </p>
