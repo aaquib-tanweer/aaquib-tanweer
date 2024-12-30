@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, JavaScript**
 
-- 📫 Reach me @ **aaquib.tanweer.111@gmail.com**
+- 📫 Reach me @ **aaquibtanweer@icloud.com**
 
 - ⚡ Fun fact **I create bugs :P**
 
