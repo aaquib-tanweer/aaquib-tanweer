@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/aaquib_tanweer" target="blank"><img src="https://img.shields.io/twitter/follow/aaquib_tanweer?logo=twitter&style=for-the-badge" alt="aaquib_tanweer" /></a> </p>
 
-- 🔭 I’m currently working as **Front-end Developer**
+🔭 I’m currently working as a Web Developer, managing frontend architecture, backend integration & deployments
 
-- 🌱 I’m currently learning **Full-stack Development**
+🌱 Currently diving into DevOps tools and practices
 
-- 🤝 I’m looking for help with **Web3**
+🤝 Open to collaborations on scalable web apps and UI/UX
 
-- 💬 Ask me about **react, JavaScript**
+💬 Ask me about React, JavaScript, or building responsive interfaces
 
-- 📫 Reach me @ **aaquibtanweer@icloud.com**
+🧠 Always striving to improve code quality, performance & user experience
 
-- ⚡ Fun fact **I create bugs :P**
+📫 Reach me at aaquibtanweer@icloud.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
