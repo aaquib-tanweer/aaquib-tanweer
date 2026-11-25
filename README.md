@@ -1,36 +1,94 @@
-<h1 align="center">Hey there 👋, I'm Aaquib Tanweer</h1>
-<h3 align="center">A Web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/aaquib_tanweer" target="blank"><img src="https://img.shields.io/twitter/follow/aaquib_tanweer?logo=twitter&style=for-the-badge" alt="aaquib_tanweer" /></a> </p>
+<div align="center">
 
-🔭 I’m currently working as a Web Developer, managing frontend architecture, backend integration & deployments
+# Aaquib Tanweer
 
-🌱 Currently diving into DevOps tools and practices
+**Developer. Builder. Problem Solver.**
 
-🤝 Open to collaborations on scalable web apps and UI/UX
+Building digital experiences where design meets engineering.
 
-💬 Ask me about React, JavaScript, or building responsive interfaces
+`Full-Stack Developer` · `Software Engineer` · `India`
 
-🧠 Always striving to improve code quality, performance & user experience
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=icloud&logoColor=white)](mailto:aaquibtanweer@icloud.com)
+[![X](https://img.shields.io/badge/Twitter-18181B?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aaquib_tanweer)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaquib_tanweer)
 
-📫 Reach me at aaquibtanweer@icloud.com
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aaquib_tanweer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaquib_tanweer" height="30" width="40" /></a>
-<a href="https://instagram.com/aaquib_tanweer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaquib_tanweer" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 01 / About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaquib-tanweer&show_icons=true&locale=en&layout=compact" alt="aaquib-tanweer" /></p>
+I'm a full-stack developer from India with a passion for building thoughtful, scalable and high-performance digital experiences.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaquib-tanweer&show_icons=true&locale=en" alt="aaquib-tanweer" /></p>
+I enjoy working at the intersection of design and engineering, turning complex problems into elegant solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaquib-tanweer&" alt="aaquib-tanweer" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+- Building modern, production-ready web applications.
+- Obsessed with clean code and intuitive interfaces.
+- Exploring software architecture, automation and DevOps.
+- Interested in performance, scalability and developer experience.
+- Always learning, experimenting and building.
+
+> Simplicity is a feature, not a limitation.
+
+### 02 / Areas of interest
+
+| Development | Engineering |
+| :--- | :--- |
+| Full-Stack Development | Software Architecture |
+| Modern Web Applications | Performance Optimization |
+| UI/UX Engineering | Scalable Systems |
+| API Development | Automation & DevOps |
+| Database Design | Cloud & Deployment |
+
+### 03 / My toolkit
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark)
+
+**Backend & Database**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb&theme=dark)
+
+**Infrastructure & Deployment**
+
+![Infrastructure](https://skillicons.dev/icons?i=vercel,netlify,docker,linux,jenkins,cloudflare&theme=dark)
+
+**Development Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark)
+
+### 04 / Developer activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaquib-tanweer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaquib-tanweer&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=aaquib-tanweer&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+### 05 / Contribution activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaquib-tanweer&bg_color=0d1117&color=a1a1aa&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/aaquib-tanweer)
+
+</div>
+
+---
+
+<div align="center">
+
+**Stay curious. Keep building. Never stop learning.**
+
+Open to meaningful collaborations and conversations about technology.
+
+[Get in touch](mailto:aaquibtanweer@icloud.com)
+
+<sub>Powered by curiosity, caffeine and countless commits.</sub>
+
+</div>
